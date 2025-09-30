@@ -1,0 +1,56 @@
+.get-access-container {
+    max-width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.get-access-form label {
+    margin-bottom: 15px;
+    display: block;
+}
+
+.get-access-form input {
+    padding: 8px;
+    margin-top: 4px;
+    text-align: center;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.get-access-form button {
+    padding: 10px;
+    background: #f74200;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 60%;
+}
+
+    .get-access-form button:hover {
+        background: #4d4d4d;
+        width: 60%;
+    }
+
+    .get-access-form button:disabled {
+        background: #999;
+        cursor: not-allowed;
+    }
+
+.message {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #333;
+}

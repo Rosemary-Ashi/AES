@@ -1,0 +1,6 @@
+@Aespension.Server_HostAddress = http://localhost:5004
+
+GET {{Aespension.Server_HostAddress}}/api/Balance/NSCDC1000165?endDate=2025-06-30
+Accept: application/json
+
+###

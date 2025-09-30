@@ -1,0 +1,18 @@
+.balance-tile {
+    background: white;
+    color: #FD5C01;
+    border-radius: 100px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+    .balance-tile h3 {
+        margin: 0;
+    }
+
+    .balance-tile p {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin: 10px 0 0 0;
+    }

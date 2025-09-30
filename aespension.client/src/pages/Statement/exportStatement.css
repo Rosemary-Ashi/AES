@@ -1,0 +1,21 @@
+.export-menu {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    margin: 2rem 0 0 0; /* Top spacing from tiles */
+    justify-content: flex-end;
+}
+
+    .export-menu button {
+        padding: 0.5rem 1rem;
+        border: none;
+        /*background-color: #1d4ed8;*/
+        background-color: #f74200;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .export-menu button:hover {
+            background-color: #4d4d4d;
+        }

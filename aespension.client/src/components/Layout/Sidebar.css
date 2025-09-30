@@ -1,0 +1,89 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Push logout to the bottom */
+    width: 220px;
+    background: #f9f9f9;
+    color: #4d4d4d;
+    padding: 20px;
+    height: 100vh;
+}
+
+    .sidebar h2 {
+        margin-bottom: 20px;
+    }
+
+    .sidebar nav a {
+        display: block;
+        padding: 12px 16px;
+        margin-bottom: 8px;
+        color: #444; /* gray text */
+        text-decoration: none;
+        border-radius: 6px;
+        transition: background 0.2s, color 0.2s;
+    }
+
+        .sidebar nav a:hover {
+            background: #FD5C01;
+            color: white;
+        }
+
+        .sidebar nav a.active {
+            background: #ffeee9;
+            color: #FD5C01;
+            font-weight: bold;
+        }
+
+    .sidebar .logout-btn {
+        background-color: #FD5C01;
+        color: white;
+        border: none;
+        width: 70%;
+        padding: 10px 16px;
+        border-radius: 6px;
+        cursor: pointer;
+        margin-bottom: 20px;
+        transition: background 0.2s;
+    }
+
+        .sidebar .logout-btn:hover {
+            background: #e04e00;
+        }
+.sidebar-link {
+    all: unset;
+    display: block;
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    color: #444;
+    text-decoration: none;
+    border-radius: 6px;
+    background: none;
+    cursor: pointer;
+    text-align: left;
+    transition: background 0.2s, color 0.2s;
+    font-family: inherit; /* match font of links */
+    font-weight: 600;
+}
+
+    .sidebar-link:hover {
+        all: unset;
+        background: #FD5C01;
+        color: white;
+        width:85%;
+        display: block;
+        padding: 12px 16px;
+        margin-bottom: 8px;
+        text-decoration: none;
+        border-radius: 6px;
+        cursor: pointer;
+        text-align: left;
+        transition: background 0.2s, color 0.2s;
+        font-family: inherit; /* match font of links */
+        font-weight: 600;
+    }
+
+    .sidebar-link.active {
+        background: #ffeee9;
+        color: #FD5C01;
+        font-weight: bold;
+    }

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software Development\\Aespension -Copy-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0218B111-483F-4CAE-85EB-37F056B42008}|aespension.client\\aespension.client.esproj|c:\\software development\\aespension -copy-test\\aespension.client\\src\\api\\axiosclient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0218B111-483F-4CAE-85EB-37F056B42008}|aespension.client\\aespension.client.esproj|solutionrelative:aespension.client\\src\\api\\axiosclient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218B111-483F-4CAE-85EB-37F056B42008}|aespension.client\\aespension.client.esproj|c:\\software development\\aespension -copy-test\\aespension.client\\src\\pages\\statement\\statement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0218B111-483F-4CAE-85EB-37F056B42008}|aespension.client\\aespension.client.esproj|solutionrelative:aespension.client\\src\\pages\\statement\\statement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "axiosClient.js",
+              "DocumentMoniker": "C:\\Software Development\\Aespension -Copy-Test\\aespension.client\\src\\api\\axiosClient.js",
+              "RelativeDocumentMoniker": "aespension.client\\src\\api\\axiosClient.js",
+              "ToolTip": "C:\\Software Development\\Aespension -Copy-Test\\aespension.client\\src\\api\\axiosClient.js",
+              "RelativeToolTip": "aespension.client\\src\\api\\axiosClient.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-30T10:50:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statement.jsx",
+              "DocumentMoniker": "C:\\Software Development\\Aespension -Copy-Test\\aespension.client\\src\\pages\\Statement\\Statement.jsx",
+              "RelativeDocumentMoniker": "aespension.client\\src\\pages\\Statement\\Statement.jsx",
+              "ToolTip": "C:\\Software Development\\Aespension -Copy-Test\\aespension.client\\src\\pages\\Statement\\Statement.jsx",
+              "RelativeToolTip": "aespension.client\\src\\pages\\Statement\\Statement.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-30T10:06:06.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

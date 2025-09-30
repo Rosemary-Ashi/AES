@@ -1,0 +1,18 @@
+.dashboard {
+    margin-left: 20px; /* to make space for sidebar */
+    padding: 20px;
+    color:#4d4d4d;
+}
+
+.tiles-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    border-radius: 100px;
+    background: #ffeee9;
+    margin-top:80px;
+}
+
+h1 {
+    margin-bottom: 100px;
+}
